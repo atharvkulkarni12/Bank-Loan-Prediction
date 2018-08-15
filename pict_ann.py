@@ -26,3 +26,7 @@ X[:, 3:4] = labelencoder_X.fit_transform(X[:, 3:4]).fillna('0')
 temp = np.array(X[:, 3:4])
 for i in range(84191):
     X[:, 3:4][i] == X[:, 3:4][i][0]
+    
+    
+    
+    dfsdfss
